@@ -1,0 +1,44 @@
+body{
+    background-color: burlywood;
+    background-image: url(03.jpg);
+    background-size: 90%;
+    
+}
+
+div{
+    
+    color:red; 
+    text-size-adjust: 25px;
+    text-align: center;
+    background-color: aliceblue;
+    font-family:'Times New Roman', Times, serif;
+    background-size:35%;
+}
+ul{
+    color:yellow;
+    text-size-adjust: 10px;
+}
+
+
+    
+
+p
+{
+
+ color:hsl(48, 78%, 91%) ; 
+ text-transform:none;
+ font-size: 30px;
+ text-align: center;
+ padding-left:1%; padding-right: 15%;
+
+}
+h2{
+    color: rgb(139, 223, 14);
+    text-align:left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h5{
+    background-image: url(01.jpg);
+
+}
+    
